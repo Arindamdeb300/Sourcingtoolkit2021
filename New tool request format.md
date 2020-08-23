@@ -13,4 +13,4 @@ Name| Link to extention or website |Short description (if needed) |
 ------| --- | --- |
 [Share Extensions]|(https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe) | Get a list of all your extensions and share them.
 
-## Email me the details at ardeb@akamai.com, So that i can add them in the list
+## Email me the details at ardeb@akamai.com, So that i can add them to the list.
