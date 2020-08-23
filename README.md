@@ -2,7 +2,7 @@
 <img src="https://www.excelityglobal.com/themes/chocolate/assets/img/slider/recruitment_banner_2.gif" align="centre" height="undefined" width="1000" />
 </div>
 
-# Welcome to Akamai Sourcing Toolkit 2020
+# Welcome to Akamai's Global Sourcing Toolkit 2020
  🌎  [Akamai Global Sourcing Toolkit](https://start.me/p/5vY9br/global-sourcing-toolkit-akamai)
 
 
