@@ -1,9 +1,12 @@
 # Sourcingtoolkit2020
 <img src="https://www.excelityglobal.com/themes/chocolate/assets/img/slider/recruitment_banner_2.gif" align="centre" height="undefined" width="1000" />
 </div>
-<!-- BEGIN DATA -->
 
-| <h2 align="left"> [Akamai Sourcing Toolkit](https://start.me/p/5vY9br/global-sourcing-toolkit-akamai)</h2>
+# Welcome to Akamai Sourcing Toolkit 2020
+
+| [Akamai Sourcing Toolkit](https://start.me/p/5vY9br/global-sourcing-toolkit-akamai)
+</h2>
+
 ## ❤️ My favourites
 The rest is pretty cool too, but these deserve a special place :)
 - [Sourcing Games](http://sourcing.games/)
