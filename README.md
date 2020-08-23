@@ -13,12 +13,12 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Giphy](https://giphy.com/)
 - [MixMax](http://ssqt.co/mQgncqF) 
 
-- This simple text editor in my browser
-  - *tip: create a bookmark with this (only this line ) and pin it on the first tab when you are sourcing*
-            https://github.com/Arindamdeb2000/Sourcingtoolkit2020/blob/master/README.m
-	       ✪ |[Right Click on Chrome Browser bookmark pannel and click on Add Page]("https://drive.google.com/file/d/17PpdWcdfx7iSFHSQaoRPBJcEA_aEn-mg/view?usp=sharing") 
-	       ✪ |[On the Name Tab write:Akamai Sourcing Toolkit 2020 and on the URL Tab: *paste the abovelink* ]("https://drive.google.com/file/d/10nBKVmMb1z21fnRrTCMRkw8eLHJcxz6A/view?usp=sharing")
-	       ✪ Save it as a Bookmark, which will be like a chrome extention to be used
+
+
+Tip: create a bookmark with this (only this line ) and pin it on the first tab when you are sourcing:     https://github.com/Arindamdeb2000/Sourcingtoolkit2020/blob/master/README.m
+| ✪[Right Click on Chrome Browser bookmark pannel and click on Add Page]("https://drive.google.com/file/d/17PpdWcdfx7iSFHSQaoRPBJcEA_aEn-mg/view?usp=sharing")
+| ✪[On the Name Tab write:Akamai Sourcing Toolkit 2020 and on the URL Tab: *paste the abovelink* ]("https://drive.google.com/file/d/10nBKVmMb1z21fnRrTCMRkw8eLHJcxz6A/view?usp=sharing")
+|  ✪ Save it as a Bookmark, which will be like a chrome extention to be used
 	    
 	 
 	    
