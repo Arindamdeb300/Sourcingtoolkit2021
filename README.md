@@ -435,7 +435,7 @@ The rest is pretty cool too, but these deserve a special place :)
 
 WORK IN PROGRESS 
 
-## If you find some links not working and/or wanted make some edites ,Please feel free to email me at ardeb@akamai.com 
+## If you find some links not working and/or wanted yo make some edites ,Please feel free to email me at ardeb@akamai.com. I shall make all the necessary changes after reviewing it. 
 ## Arindam Deb A.k.a ARI 
 <br />
 <p align="left">Connect to me on 🔗:
