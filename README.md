@@ -16,7 +16,9 @@ The rest is pretty cool too, but these deserve a special place :)
 
 
 
-## Tip: create a bookmark with this (only this line ) and pin it on the first tab when you are sourcing:     *https://github.com/Arindamdeb2000/Sourcingtoolkit2020/blob/master/README.m
+## Tip: create a bookmark with this (only this line ) and pin it on the first tab when you are sourcing:
+
+*https://github.com/Arindamdeb2000/Sourcingtoolkit2020/blob/master/README.m
 <!-- BEGIN DATA -->
 
 - [Right Click on Chrome Browser bookmark pannel and click on Add Page]("https://drive.google.com/file/d/17PpdWcdfx7iSFHSQaoRPBJcEA_aEn-mg/view?usp=sharing")
