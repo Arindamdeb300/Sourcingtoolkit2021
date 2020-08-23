@@ -430,3 +430,13 @@ The rest is pretty cool too, but these deserve a special place :)
 
 
 WORK IN PROGRESS 
+
+## If you find some links not working and/or wanted make some edites ,Please feel free to email me at ardeb@akamai.com 
+## Arindam Deb A.k.a ARI 
+<br />
+<p align="left">Connect to me on 🔗:
+<a href="https://twitter.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/arindamdeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+<a href="https://fb.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+<a href="https://instagram.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+</p>
