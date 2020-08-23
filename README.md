@@ -5,8 +5,7 @@
 # Welcome to Akamai's Global Sourcing Toolkit 2020
  🌎  [Akamai Global Sourcing Toolkit](https://start.me/p/5vY9br/global-sourcing-toolkit-akamai)
 
-<img src="https://www.websystemer.no/wp-content/uploads/2020/06/updates-from-an-aspiring-programmer.gif" align="centre" height="300" width="500" />
-</div>
+
 
 ## ❤️ My favourites
 The rest is pretty cool too, but these deserve a special place :)
@@ -25,7 +24,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - Save it as a Bookmark, which will be like a chrome extention to be used
 	    
 	 
-	    
+<img src="https://www.websystemer.no/wp-content/uploads/2020/06/updates-from-an-aspiring-programmer.gif" align="centre" height="300" width="500" />
+</div>	    
      
       
 ## 📓 Blogs
