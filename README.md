@@ -4,7 +4,7 @@
 
 # Welcome to Akamai Sourcing Toolkit 2020
 
-| [Akamai Sourcing Toolkit](https://start.me/p/5vY9br/global-sourcing-toolkit-akamai)
+ [Akamai Sourcing Toolkit](https://start.me/p/5vY9br/global-sourcing-toolkit-akamai)|
 </h2>
 
 ## ❤️ My favourites
