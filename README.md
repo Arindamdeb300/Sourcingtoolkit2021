@@ -3,9 +3,8 @@
 </div>
 
 # Welcome to Akamai Sourcing Toolkit 2020
+ 🌎 [Akamai Global Sourcing Toolkit](https://start.me/p/5vY9br/global-sourcing-toolkit-akamai)
 
- [Akamai Sourcing Toolkit](https://start.me/p/5vY9br/global-sourcing-toolkit-akamai)|
-</h2>
 
 ## ❤️ My favourites
 The rest is pretty cool too, but these deserve a special place :)
