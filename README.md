@@ -14,9 +14,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [MixMax](http://ssqt.co/mQgncqF) 
 
 - This simple text editor in my browser
-  - *tip: create a bookmark with this (only this line of code) and pin it on the first tab when you are sourcing*
+  - *tip: create a bookmark with this (only this line ) and pin it on the first tab when you are sourcing*
 
-      ```data:text/html,<html><textarea rows="40" style="width: 100%;height: 100wh;"></textarea></html>```
+     
       
 ## 📓 Blogs
 - [SourceCon](https://www.sourcecon.com/)
