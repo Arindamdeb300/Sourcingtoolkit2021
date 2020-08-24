@@ -1,4 +1,4 @@
-# Global Sourcing Toolkit 2020
+# Global Sourcing Toolkit 2021
 <img src="https://www.excelityglobal.com/themes/chocolate/assets/img/slider/recruitment_banner_2.gif" align="centre" height="undefined" width="1000" />
 </div>
 
