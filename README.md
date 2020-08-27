@@ -1,6 +1,6 @@
 # Global Sourcing Toolkit 2021
 <img src="https://www.excelityglobal.com/themes/chocolate/assets/img/slider/recruitment_banner_2.gif" align="centre" height="undefined" width="1000" />
-</div>
+
 
 # Welcome to Akamai's Global Sourcing Toolkit 2021
  🌎  [Akamai Global Sourcing Toolkit](https://start.me/p/5vY9br/global-sourcing-toolkit-akamai)
@@ -27,7 +27,7 @@ The rest is pretty cool too, but these deserve a special place :)
 	    
 	 
 <img src="https://www.websystemer.no/wp-content/uploads/2020/06/updates-from-an-aspiring-programmer.gif" align="centre" height="300" width="500" />
-</div>	    
+    
      
       
 ## 📓 Blogs
