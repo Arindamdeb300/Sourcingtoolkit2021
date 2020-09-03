@@ -27,8 +27,10 @@ The rest is pretty cool too, but these deserve a special place :)
 	    
 	 
 <img src="https://www.websystemer.no/wp-content/uploads/2020/06/updates-from-an-aspiring-programmer.gif" align="centre" height="300" width="500" />
-    
-     
+
+## 📓 CSE
+- [Poland](https://bit.ly/CSE_Akamai_Poland)
+- [Israel](https://bit.ly/CSE_Akamai_Israel)
       
 ## 📓 Blogs
 - [SourceCon](https://www.sourcecon.com/)
