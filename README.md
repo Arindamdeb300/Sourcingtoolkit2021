@@ -31,6 +31,8 @@ The rest is pretty cool too, but these deserve a special place :)
 ## 🕵️‍ CSE - "Custom Search Engines"
 - [Poland](https://bit.ly/CSE_Akamai_Poland)
 - [Israel](https://bit.ly/CSE_Akamai_Israel)
+- [Singapore](http://bit.ly/CSE_Akamai_Singapore)
+
       
 ## 📓 Blogs
 - [SourceCon](https://www.sourcecon.com/)
